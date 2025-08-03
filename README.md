@@ -26,4 +26,4 @@ A simple and responsive web application to generate strong, secure 10-character 
 (https://github.com/marsion77/Random-Password-Generator.git)
 
 ## ✅ Live Demo
-🔗https://peaceful-chebakia-911910.netlify.app/
+🔗(https://superb-puppy-64f04a.netlify.app/)
