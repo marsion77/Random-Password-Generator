@@ -13,7 +13,8 @@ A simple and responsive web application to generate strong, secure 10-character 
 
 ## 📸 Screenshot
 
-![Password Generator Screenshot](<img width="1518" height="853" alt="image" src="https://github.com/user-attachments/assets/4e83a3ce-93dd-4575-b735-a4fd85363c57" />)
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/c9e8bc09-3cb1-4d11-b1aa-ce67747defec" />
+
 
 ## 💻 Tech Stack
 
